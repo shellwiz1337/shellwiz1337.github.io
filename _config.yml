@@ -23,9 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Projects: "projects"
   Writeups: "writeupsbycategories"
-   - Hackthebox: "https://redteamerhacks.com/htb"
-   - TryHackMe: "https://redteamerhacks.com/thm"
-   
+
 
 ################
 # --- Logo --- #
@@ -142,7 +140,7 @@ hover-col: "#696969"
 navbar-col: "#FFFFFF"
 navbar-text-col: "#dad42b"
 navbar-border-col: "#dad42b"
-footer-col: "#696969"
+footer-col: "#EAEAEA"
 footer-text-col: "#EAEAEA"
 footer-link-col: "#000000"
 footer-hover-col: "#dad42b"
