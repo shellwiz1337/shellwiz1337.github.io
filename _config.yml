@@ -21,11 +21,11 @@ author: Sujal
 
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects"
-  HacktheBox: "hackthebox"
-  Offensive: "offensive"
-  Defensive: "defensive"
-  Misc writeups: "miscwriteups"
+  #Projects: "projects"
+  #HacktheBox: "hackthebox"
+ # Offensive: "offensive"
+  #Defensive: "defensive"
+  #Misc writeups: "miscwriteups"
 
 
 ################
