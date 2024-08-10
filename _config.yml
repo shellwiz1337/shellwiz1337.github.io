@@ -22,12 +22,12 @@ author: Sujal
 navbar-links:
   About Me: "aboutme"
   Categories:
-   -TryHackMe: "https://redteamerhacks.com/thm"
-   -HackTheBox: "https://redteamerhacks.com/htb"
-   -Cheatsheets: "https://redteamerhacks.com/cheatsheets"
-   -Miscellaneous writeups: "https://redteamerhacks.com/msc"
-   -Offensive: "https://redteamerhacks.com/offensive"
-   -Defensive: "https://redteamerhacks.com/defensive"
+   - TryHackMe: "https://redteamerhacks.com/thm"
+   - HackTheBox: "https://redteamerhacks.com/htb"
+   - Cheatsheets: "https://redteamerhacks.com/cheatsheets"
+   - Miscellaneous writeups: "https://redteamerhacks.com/msc"
+   - Offensive: "https://redteamerhacks.com/offensive"
+   - Defensive: "https://redteamerhacks.com/defensive"
   #Projects: "projects"
   #HacktheBox: "hackthebox"
  # Offensive: "offensive"
