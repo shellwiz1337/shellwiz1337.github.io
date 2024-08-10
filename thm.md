@@ -60,7 +60,3 @@ title: Writeups for TryHackMe
 </div>
 
 
-# While writing any blog related to TryHackme: 
-
-
-#categories: TryHackMe
