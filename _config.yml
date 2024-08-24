@@ -143,26 +143,31 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
+#navbar-col: "#EAEAEA"
+#navbar-text-col: "#404040"
+#navbar-border-col: "#DDDDDD"
+#page-col: "#FFFFFF"
+#text-col: "#404040"
+#link-col: "#008AFF"
+#hover-col: "#0085A1"
+#footer-col: "#EAEAEA"
+#footer-text-col: "#777777"
+#footer-link-col: "#404040"
+#footer-hover-col: "#0085A1"
+
+navbar-col: "#404040"
+navbar-text-col: "#EAEAEA"
+navbar-border-col: "#DDDDDD"
+page-col: "#696969"
+text-col: "#ffffff"
+link-col: "#dad42b"
+hover-col: "#dad42b"
+footer-col: "#404040"
+footer-text-col: "#EAEAEA"
+footer-link-col: "#000000"
+footer-hover-col: "#dad42b"
 
 
-pre {
-    background-color: #2E3440;  /* Dark gray-blue background for code blocks */
-    color: #D8DEE9;             /* Light gray text for readability */
-    border: 1px solid #4C566A;  /* Slightly lighter gray border */
-    padding: 15px;              /* Padding around the code block */
-    border-radius: 5px;         /* Rounded corners for modern look */
-    overflow-x: auto;           /* Horizontal scrollbar for long lines */
-    font-family: 'Source Code Pro', monospace; /* Monospace font for terminal feel */
-}
-
-
-code {
-    background-color: #3B4252;  /* Slightly lighter dark gray-blue */
-    color: #D8DEE9;             /* Light gray text */
-    padding: 2px 4px;           /* Padding around inline code */
-    border-radius: 3px;         /* Slightly rounded corners */
-    font-size: 0.9em;           /* Slightly smaller font size */
-}
 
 
 
