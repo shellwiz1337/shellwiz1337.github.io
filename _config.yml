@@ -144,24 +144,26 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 
+
 pre {
-    background-color: #1E1E1E;  /* Dark gray background for better contrast */
-    color: #D4D4D4;             /* Light gray text for readability */
-    border: 1px solid #3C3C3C;  /* Slightly lighter gray border */
-    padding: 15px;              /* Increased padding for better spacing */
-    border-radius: 8px;         /* Rounded corners for a modern look */
-    overflow-x: auto;           /* Scrollbar for long lines of code */
-    font-family: 'Courier New', Courier, monospace; /* Monospace font for code */
+    background-color: #2E3440;  /* Dark gray-blue background for code blocks */
+    color: #D8DEE9;             /* Light gray text for readability */
+    border: 1px solid #4C566A;  /* Slightly lighter gray border */
+    padding: 15px;              /* Padding around the code block */
+    border-radius: 5px;         /* Rounded corners for modern look */
+    overflow-x: auto;           /* Horizontal scrollbar for long lines */
+    font-family: 'Source Code Pro', monospace; /* Monospace font for terminal feel */
 }
 
 
 code {
-    background-color: #333333;  /* Darker gray background for inline code */
-    color: #D4D4D4;             /* Light gray text */
+    background-color: #3B4252;  /* Slightly lighter dark gray-blue */
+    color: #D8DEE9;             /* Light gray text */
     padding: 2px 4px;           /* Padding around inline code */
-    border-radius: 4px;         /* Slightly rounded corners */
+    border-radius: 3px;         /* Slightly rounded corners */
     font-size: 0.9em;           /* Slightly smaller font size */
 }
+
 
 
 # Alternatively, the navbar, footer, and page background can be set to an image
